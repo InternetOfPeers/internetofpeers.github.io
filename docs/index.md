@@ -1,4 +1,4 @@
-## Internet of Peers
+## Home
 
 Free and open organization spreading web 3.0 ideas, projects and code around the world.
 
