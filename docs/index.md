@@ -15,10 +15,6 @@ Some GitHub repos you may find interesting:
 - [test-gas-costs](https://github.com/InternetOfPeers/test-gas-costs) A repo containing support code for answers to several questions posted on StackExchange.
 - [persians](https://github.com/InternetOfPeers/persians) Persian Army ICO & Battle Smart Contract. Battle Smart Contract is a platform/ecosystem for gaming built on top of a decentralized smart contract, allowing anyone to use Warrior tokens: entities that exist on the Ethereum Network, which can be traded or used to enter the battle with other Warrior tokens holders, for-profit or just for fun! The first fight, _Battle Of Thermopylae_, was held between Persians, Immortals, Spartans, and Persians Athenians in 2017.
 
-If you want to join the club, just send an email to [info@internetofpeers.org](mailto:info@internetofpeers.org)
-
-PGP Public Key: [5530dd3cb66747105c11139ec692a2919f5f6425](meta/publickey.info_internetofpeers.org-5530dd3cb66747105c11139ec692a2919f5f6425.asc)
-
 ## Blog posts
 
 - [DAO, Decentralized Autonomous Organization](daos.md)
@@ -26,3 +22,24 @@ PGP Public Key: [5530dd3cb66747105c11139ec692a2919f5f6425](meta/publickey.info_i
 ## Other activities
 
 Staking on Ethereum and Polkadot (wannabe, still only a nominator ^^ but you can check the current [validators list](validators.md)).
+
+## Joining
+
+If you want to join the club, just send an email to [info@internetofpeers.org](mailto:info@internetofpeers.org)
+
+PGP Public Key: [5530dd3cb66747105c11139ec692a2919f5f6425](meta/publickey.info_internetofpeers.org-5530dd3cb66747105c11139ec692a2919f5f6425.asc)
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+xjMEYpQfChYJKwYBBAHaRw8BAQdAaiY/0Ojv1w1t0x9pzhgPmsO/MgHsC2L4
+sDOjHZ4mr7jNM2luZm9AaW50ZXJuZXRvZnBlZXJzLm9yZyA8aW5mb0BpbnRl
+cm5ldG9mcGVlcnMub3JnPsKPBBAWCgAgBQJilB8KBgsJBwgDAgQVCAoCBBYC
+AQACGQECGwMCHgEAIQkQxpKikZ9fZCUWIQRVMN08tmdHEFwRE57GkqKRn19k
+JWyzAP9WBvVxnx3RH4t+dofiMbUc9xkL5QyjE12eCDl0sGa4ZwEAgOeB5DWl
+QezCAtFMBVGfk3nxavG8YiRQ1gww/MmlYQvOOARilB8KEgorBgEEAZdVAQUB
+AQdAsjzzX6iDbPs7KpFz8h/Qw4wzMd600bR6c2KpMwu3G2sDAQgHwngEGBYI
+AAkFAmKUHwoCGwwAIQkQxpKikZ9fZCUWIQRVMN08tmdHEFwRE57GkqKRn19k
+JYnxAP9s8sZxnVO5JC4rZ1sjyxg4xN6865XV9yQfKyffb27K/wEA/89OwJ55
+8niT6skz0PyXNiaRPWTDXUXhExDwtnoOUAI=
+=b6L8
+-----END PGP PUBLIC KEY BLOCK-----
+```
