@@ -17,7 +17,7 @@ Some GitHub repos you may find interesting:
 
 If you want to join the club, just send an email to [info@internetofpeers.org](mailto:info@internetofpeers.org)
 
-PGP Public Key: [5530dd3cb66747105c11139ec692a2919f5f6425](../publickey.info%40internetofpeers.org-5530dd3cb66747105c11139ec692a2919f5f6425.asc)
+PGP Public Key: [5530dd3cb66747105c11139ec692a2919f5f6425](../publickey.info@internetofpeers.org-5530dd3cb66747105c11139ec692a2919f5f6425.asc)
 
 ## Blog posts
 
