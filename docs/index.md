@@ -15,7 +15,7 @@ Some GitHub repos you may find interesting:
 - [test-gas-costs](https://github.com/InternetOfPeers/test-gas-costs) A repo containing support code for answers to several questions posted on StackExchange.
 - [persians](https://github.com/InternetOfPeers/persians) Persian Army ICO & Battle Smart Contract. Battle Smart Contract is a platform/ecosystem for gaming built on top of a decentralized smart contract, allowing anyone to use Warrior tokens: entities that exist on the Ethereum Network, which can be traded or used to enter the battle with other Warrior tokens holders, for-profit or just for fun! The first fight, _Battle Of Thermopylae_, was held between Persians, Immortals, Spartans, and Persians Athenians in 2017.
 
-If you want to join the club, just send an email to [internetofpeers@proton.me](mailto:internetofpeers@proton.me)
+If you want to join the club, just send an email to [info@internetofpeers.org](mailto:info@internetofpeers.org)
 
 ## Blog posts
 
