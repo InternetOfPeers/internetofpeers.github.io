@@ -6,8 +6,9 @@ Working in the crypto and open source ecosystem to help with improvements and bu
 
 Sooner or later a dedicated DAO for governance.
 
-Some GitHub repos you may find interesting:
+Some GitHub repos and tools you may find interesting:
 
+- [hedera-explorer](https://github.com/InternetOfPeers/hedera-mirror-node-explorer) Hedera Explorer ([**here the live version**](https://internetofpeers.org/hedera-explorer)): Improved version of the standard [Hedera Mirror Node Explorer](https://github.com/hashgraph/hedera-mirror-node-explorer)
 - [improved-wrapped-ether](https://github.com/InternetOfPeers/improved-canonical-weth) **WETH911**: Improvement of the canonical WETH smart contract
 - [mom-spec](https://github.com/InternetOfPeers/mom-spec) **MOM (My Own Messages)** is an easy and cost effective Ethereum standard. You can finally give voice to your smart contract, send messages to the world, create a certified blog with your ideas, and so on.
 - [mom-client](https://github.com/InternetOfPeers/mom-client) MOM Client - A voice for you and your smart contracts) MOM (My Own Messages) Client - A voice for you and your smart contracts.
