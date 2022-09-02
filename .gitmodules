@@ -1,4 +1,4 @@
-[submodule "docs/explorer"]
-	path = docs/explorer
+[submodule "docs/hedera-explorer"]
+	path = docs/hedera-explorer
 	url = git@github.com:InternetOfPeers/hedera-mirror-node-explorer.git
 	branch = gh-pages
