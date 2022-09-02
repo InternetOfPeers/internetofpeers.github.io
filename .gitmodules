@@ -2,7 +2,3 @@
 	path = docs/hedera-explorer
 	url = git@github.com:InternetOfPeers/hedera-mirror-node-explorer.git
 	branch = gh-pages
-[submodule "test"]
-	path = test
-	url = git@github.com:InternetOfPeers/hedera-mirror-node-explorer.git
-	branch = gh-pages
