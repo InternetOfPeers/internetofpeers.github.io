@@ -1,3 +1,3 @@
 # README
 
-This is the repo for https://internetofpeers.org
+This is the repo for <https://internetofpeers.org>
