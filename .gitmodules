@@ -2,3 +2,6 @@
 	path = docs/hedera-explorer
 	url = git@github.com:InternetOfPeers/hedera-mirror-node-explorer.git
 	branch = gh-pages
+[submodule "docs/hedera-hbar-exchange-rate-oracle-analysis"]
+	path = docs/hedera-hbar-exchange-rate-oracle-analysis
+	url = git@github.com:InternetOfPeers/hedera-hbar-exchange-rate-oracle-analysis.git
