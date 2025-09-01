@@ -1,0 +1,6 @@
+[submodule "docs/hedera-mirror-node-explorer"]
+	path = docs/hedera-mirror-node-explorer
+	url = https://github.com/InternetOfPeers/hedera-mirror-node-explorer.git
+[submodule "docs/hedera-hbar-exchange-rate-oracle-analysis"]
+	path = docs/hedera-hbar-exchange-rate-oracle-analysis
+	url = https://github.com/InternetOfPeers/hedera-hbar-exchange-rate-oracle-analysis.git
