@@ -4,3 +4,6 @@
 [submodule "docs/hedera-hbar-exchange-rate-oracle-analysis"]
 	path = docs/hedera-hbar-exchange-rate-oracle-analysis
 	url = https://github.com/InternetOfPeers/hedera-hbar-exchange-rate-oracle-analysis.git
+[submodule "docs/hiero-message-box"]
+	path = docs/hiero-message-box
+	url = https://github.com/InternetOfPeers/hiero-message-box.git
